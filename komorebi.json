@@ -4,7 +4,7 @@
   "window_hiding_behaviour": "Cloak",
   "animation": {
     "enabled":true,
-  "duration": 250,
+  "duration": 200,
   "fps": 60,
   "style": "EaseInOutSine"
   },
@@ -127,6 +127,31 @@
       "kind": "Exe",
       "matching_strategy": "Equals",
       "id": "pot.exe"
+    },
+    {
+      "kind": "Exe",
+      "matching_strategy": "Contains",
+      "id": "pdfeditor.exe"
+    },
+    {
+      "kind": "Exe",
+      "matching_strategy": "Contains",
+      "id": "brisk.exe"
+    },
+    {
+      "kind": "Exe",
+      "matching_strategy": "Contains",
+      "id": "wnr.exe"
+    },
+    {
+      "kind": "Title",
+      "matching_strategy": "Contains",
+      "id": "Picture in picture"
+    },
+    {
+      "kind": "Title",
+      "matching_strategy": "Contains",
+      "id": "Calculadora"
     }
   ],
   "floating_applications": [
@@ -182,6 +207,31 @@
       "kind": "Exe",
       "matching_strategy": "Equals",
       "id": "pot.exe"
+    },
+    {
+      "kind": "Exe",
+      "matching_strategy": "Equals",
+      "id": "pdfeditor.exe"
+    },
+    {
+      "kind": "Exe",
+      "matching_strategy": "Equals",
+      "id": "brisk.exe"
+    },
+    {
+      "kind": "Exe",
+      "matching_strategy": "Equals",
+      "id": "wnr.exe"
+    },
+    {
+      "kind": "Title",
+      "matching_strategy": "Contains",
+      "id": "Picture in picture"
+    },
+    {
+      "kind": "Title",
+      "matching_strategy": "Contains",
+      "id": "Calculadora"
     }
     ]
 }
