@@ -152,6 +152,11 @@
       "kind": "Title",
       "matching_strategy": "Contains",
       "id": "Calculadora"
+    },
+    {
+      "kind": "Exe",
+      "matching_strategy": "Equals",
+      "id": "WindowsTerminal.exe"
     }
   ],
   "floating_applications": [
@@ -232,6 +237,12 @@
       "kind": "Title",
       "matching_strategy": "Contains",
       "id": "Calculadora"
+    },
+    {
+
+      "kind": "Exe",
+      "matching_strategy": "Equals",
+      "id": "WindowsTerminal.exe"
     }
     ]
 }
