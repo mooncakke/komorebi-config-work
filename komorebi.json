@@ -157,6 +157,11 @@
       "kind": "Exe",
       "matching_strategy": "Equals",
       "id": "WindowsTerminal.exe"
+    },
+    {
+      "kind": "Exe",
+      "matching_strategy": "Equals",
+      "id": "DiscordCanary.exe"
     }
   ],
   "floating_applications": [
@@ -243,6 +248,11 @@
       "kind": "Exe",
       "matching_strategy": "Equals",
       "id": "WindowsTerminal.exe"
+    },
+    {
+      "kind": "Exe",
+      "matching_strategy": "Equals",
+      "id": "DiscordCanary.exe"
     }
     ]
 }
