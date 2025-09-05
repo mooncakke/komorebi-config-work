@@ -162,6 +162,16 @@
       "kind": "Exe",
       "matching_strategy": "Equals",
       "id": "DiscordCanary.exe"
+    },
+    {
+      "kind": "Exe",
+      "matching_strategy": "Equals",
+      "id": "Dropshelf.exe"
+    },
+    {
+      "kind": "Title",
+      "matching_strategy": "Contains",
+      "id": "PowerPom - Pomodoro Timer"
     }
   ],
   "floating_applications": [
@@ -253,6 +263,16 @@
       "kind": "Exe",
       "matching_strategy": "Equals",
       "id": "DiscordCanary.exe"
+    },
+    {
+      "kind": "Exe",
+      "matching_strategy": "Equals",
+      "id": "Dropshelf.exe"
+    },
+    {
+      "kind": "Title",
+      "matching_strategy": "Contains",
+      "id": "PowerPom - Pomodoro Timer"
     }
     ]
 }
